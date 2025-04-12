@@ -36,7 +36,6 @@ body::after {
     bottom: 0;
     background: url('https://images.freecreatives.com/wp-content/uploads/2016/03/Free-HD-Pokemon-Wallpapers.jpg') no-repeat center center fixed;
     background-size: cover;
-    filter: blur(2px);
     z-index: -2;
 }
 
